@@ -325,7 +325,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted 1H Sword (Strict)</nameOverride>
     </Rule>
     <Rule>
@@ -427,7 +427,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted Helmets (Strict)</nameOverride>
     </Rule>
     <Rule>
@@ -585,7 +585,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted Belts (Strict)</nameOverride>
     </Rule>
     <Rule>
@@ -669,7 +669,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted Boots (Strict)</nameOverride>
     </Rule>
     <Rule>
@@ -767,7 +767,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted Gloves (Strict)</nameOverride>
     </Rule>
     <Rule>
@@ -863,7 +863,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted Amulets (Strict)</nameOverride>
     </Rule>
     <Rule>
@@ -969,7 +969,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted Rings (Strict)</nameOverride>
     </Rule>
     <Rule>
@@ -1073,7 +1073,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>50</minLvl>
       <maxLvl>101</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride>Wanted Relics (Strict)</nameOverride>
     </Rule>
     <Rule>
